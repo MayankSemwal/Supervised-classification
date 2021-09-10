@@ -1,9 +1,9 @@
 # Supervised-classification
 The main goal of this assignment is to understand how supervised classification techniques work.
 
-Download the following datasets: circles0.3, moons1, spiral1, twogaussians33, twogaussians42, and halfkernel.
+1. Download the following datasets: circles0.3, moons1, spiral1, twogaussians33, twogaussians42, and halfkernel.
 
-Run the following classifiers on all downloaded datasets:
+2. Run the following classifiers on all downloaded datasets:
 a. LDA (linear discriminant analysis)
 b. Quadratic (quadratic discriminant analysis)
 c. Naïve Bayes: Choose a distribution and explain why you chose it.
